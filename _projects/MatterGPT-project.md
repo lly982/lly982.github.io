@@ -11,7 +11,7 @@ people:
 layout: project
 image: /img/projects/1.jpg
 last-updated: 2004-08-06
-link: [https://arxiv.org/abs/2408.07608](https://baike.baidu.com/item/%E5%8C%97%E6%96%97%E6%98%9F%E7%9A%84%E7%88%B1/5724016)
+link: https://baike.baidu.com/item/%E5%8C%97%E6%96%97%E6%98%9F%E7%9A%84%E7%88%B1/5724016
 ---
 
 ## 简介 Introduction
