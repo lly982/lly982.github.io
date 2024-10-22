@@ -5,9 +5,9 @@ Jason Zhang:
     display_name: "张杰  Jason Zhang"
     github: lly982
     role: faculty
-    image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    image: /img/people/zjq.jpg
+    bio: Singer  
+    webpage: "https://weibo.com/u/1241148864"
 
 scott:
     display_name: "Scott Summers"
@@ -26,20 +26,20 @@ wolverine:
 
 
     
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+Naxie:
+    display_name: "谢娜 Na Xie"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/xie.jpg
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
+JiongHe:
+    display_name: "何炅 Jiong He"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/he.jpg
 
-storm:
-    display_name: "虚位以待  We need you!"
+Chenwei:
+    display_name: "魏晨  Chen Wei"
     role: grad
-    image: /img/people/need.png
+    image: /img/people/wei.jpg
 
 
 
@@ -50,36 +50,36 @@ alum-a:
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: "2007年12月17日 最美的太阳"
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: "2010年11月21日 这,就是爱"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "2011年11月16日 最接近天堂的地方"
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: "2013年12月18日 爱,不解释"
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: "2018年10月12日 未·live"
     role: collab
     
 juzheng:
-    display_name: "宋居正 Juzheng Song"
+    display_name: "2021年4月29日 听！我们的歌"
     role: collab
 
 yayun:
-    display_name: "张亚运 Yayun Zhang"
+    display_name: "2022年4月14日 值得更好的 "
     role: collab
 
 dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+    display_name: "2023年8月8日 外南街1982 "
     role: collab
     
 
