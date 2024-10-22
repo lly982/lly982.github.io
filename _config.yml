@@ -1,5 +1,5 @@
-name: 肖航课题组  Xiao Research Group
-url: https://xiaohang007.github.io/
+name: 张杰介绍页  JasonZhang Introduction
+url: https://lly982.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -12,13 +12,13 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 教师 Faculty
+    name: 本人 He
   - key: grad
-    name: 研究生 Graduate Students
+    name: 同事 Colleagues
   - key: ugrad
-    name: 本科生 Undergraduate Students
+    name: 圈内好友 friends
   - key: collab
-    name: 合作者 Collaborators
+    name: 合作品牌 Brands
 
 
 # Number of news stories on the front page.
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研项目 Research
+  - title: 演唱会 concerts
     link: /research.html
-  - title: 论文 Publications
+  - title: 歌曲
     link: /publications.html
