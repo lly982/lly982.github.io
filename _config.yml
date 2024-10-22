@@ -18,7 +18,7 @@ roles:
   - key: ugrad
     name: 圈内好友 friends
   - key: collab
-    name: 合作品牌 Brands
+    name: 音乐专辑 Album
 
 
 # Number of news stories on the front page.
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 演唱会 concerts
+  - title: 歌曲 songs
     link: /research.html
-  - title: 歌曲
+  - title: 演唱会 concerts
     link: /publications.html
