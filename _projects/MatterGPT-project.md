@@ -11,7 +11,7 @@ people:
 layout: project
 image: /img/projects/zja.jpg
 last-updated: 2004-08-06
-link: https://www.bing.com/videos/riverview/relatedvideo?q=%e5%8c%97%e6%96%97%e6%98%9f%e7%9a%84%e7%88%b1&mid=6494E2E5ECF2657F92856494E2E5ECF2657F9285&FORM=VIRE
+link: https://music.163.com/#/song?id=27588760
 ---
 
 ## 简介 Introduction
