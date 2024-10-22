@@ -1,22 +1,20 @@
 ---
-title: 二维黑磷ReaxFF反应力场开发 Development of a reactive force field for phosphorene
+title: 《雪龙吟》是2022年北京冬季奥运会倒计时10天助力歌曲，由二水作词，包胡尔查作曲，张杰演唱，通过银河方舟StarNation于2022年1月25日发行。
 
 notitle: false
 
 description: |
 
 people:
-  - xiaoyang
-  - xiangbiao
-  - profx
-  - chenxi
+  - Jason Zhang
 
 layout: project
-image: /img/projects/phosphorene.png
-last-updated: 2020-01-21
+image: /img/projects/zjf.jpg
+last-updated: 2022-01-25
+link: https://music.163.com/#/song?id=1914933323
 ---
 
 ## 简介 Introduction
-二维黑磷（Phosphorene）是一种从黑磷剥离出来的有序磷原子构成的、单原子层的、有直接带隙的二维半导体材料。磷烯在场效应晶体管、光电子器件、自旋电子学、气体传感器及太阳能电池等方面有着的广阔的应用前景。现存的黑磷力场（force field）存在精度低，无法描述缺陷（defects）等问题。针对这一痛点，我们开发了黑磷的ReaxFF反应力场，并且添加了60°修正项，实现了对黑磷，二维黑磷，二维蓝磷，磷原子团簇，黑磷缺陷等含磷体系的精确描述。为建立更普适的含磷材料反应力场奠定了基础。
+这样一首朝气蓬勃的、律动性很强的歌曲，能引起更多人的同频共振。而作为一首和北京冬奥会有关的歌曲，如何让歌曲更具有中国特色，也非常重要。所以在张杰的说唱中间加入了振奋人心的中国鼓点。他希望，当听众为奥运会赛场上运动员们的拼搏精神所感动时，也能在这首歌里感受到一种奋发向上的力量。
 
 
