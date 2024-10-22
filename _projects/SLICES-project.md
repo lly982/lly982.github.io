@@ -1,21 +1,18 @@
 ---
-title: SLICES:一种可逆晶体表示法及在人工智能驱动的晶体逆向设计中的应用 An invertible, invariant crystallographic representation for inverse design of solid-state materials using generative deep learning
+title: SLICES:《逆战》是为腾讯游戏枪战网游“逆战”演唱的歌曲，由裴育作词，曲世聪作曲编曲，张杰演唱，收录在张杰2012年发行的专辑《One Chance新歌+精选》里，2012年3月21日在腾讯游戏2012年度发布会首唱，MV由周君执导，2012年9月3日首播。
 
 notitle: false
 
 description: |
 
 people:
-  - rong
-  - chenyan
-  - profx
-  - chenxi
+  - Jason Zhang
 
 layout: project
-image: /img/projects/slices.png
-last-updated: 2023-06-08
-link: https://www.nature.com/articles/s41467-023-42870-7
+image: /img/projects/zjd.jpg
+last-updated: 2012-03-21
+link: https://music.163.com/#/song?id=28996036
 ---
 
 ## 简介 Introduction
-过去十年来，得益于像简化分子输入线性表示系统（SMILES）这样的可逆且具有对称不变性的分子表示法，人工智能驱动的分子逆向设计取得了飞速进展。然而，设计晶体材料中元素的组成和结构排布以实现某些期望的性质，仍然是物理学、化学和生物学中长期存在的挑战。这主要是由于缺乏满足对称不变性的可逆晶体表示方法。为了解决这个问题，我们开发了一个简化的线输入晶体编码系统（SLICES）。这是一种基于字符串的既满足可逆性又满足对称不变性的晶体表示法。 SLICES 成功地重建了超过40,000种在结构和化学上各异的晶体结构，重建成功率高达94.95%，展现出前所未有的可逆性。此外，由于仅编码化学组成和拓扑信息，SLICES 确保了对称不变性。我们展示了SLICES在逆向设计具有直接窄带隙半导体中的应用。作为一种基于字符串的、可逆的、不变的以及高效的晶体表示法，SLICES 有潜力成为新材料发现的通用工具。
+《逆战》是张杰作为腾讯枪战网游“逆战”代言人演唱的游戏主题曲，曲作者曲世聪是张杰长期合作的老搭档，词作者裴育之前与张杰也合作过《勿忘心安》等作品。这首歌原是为张杰2011年发行的《最接近天堂的地方》这张专辑创作的一首主打歌，张杰与腾讯谈合作时决定将这首歌作为游戏的主题曲而暂不收入专辑。歌曲原有的节奏没那么快，为了适应游戏主题曲的需要，曲世聪对这首歌重新进行编曲，使歌曲的冲击力大为提升。
