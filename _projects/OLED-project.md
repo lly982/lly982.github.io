@@ -11,7 +11,7 @@ people:
 layout: project
 image: /img/projects/zjb.jpg
 last-updated: 2011-04-09
-link：https://music.163.com/song?id=191060
+link: https://music.163.com/song?id=191060
 ---
 
 ## 简介 Introduction
