@@ -1,25 +1,19 @@
 ---
-title: MatterGPT:a GPT2-based large language model for multi-property inverse design of crystal structures.
+title: 《北斗星的爱》由张杰作词、苟伟作曲、张杰演唱，是张杰的入行成名曲，2004年8月6日张杰在首届“我型我秀”总决赛现场首唱，并以这首原创歌曲脱颖而出一举夺得总冠军。该歌曲收录在2005年张杰发行的首张个人专辑《第一张》里，是该专辑的第一主打歌。
 
 notitle: false
 
 description: |
 
 people:
-  - chenyan
-  - profx
-  - chenxi
+  - Jason Zhang
 
 layout: project
-image: /img/projects/MatterGPT.jpg
-last-updated: 2024-08-08
-link: https://arxiv.org/abs/2408.07608
+image: /img/projects/1.jpg
+last-updated: 2004-08-06
+link: [https://arxiv.org/abs/2408.07608](https://baike.baidu.com/item/%E5%8C%97%E6%96%97%E6%98%9F%E7%9A%84%E7%88%B1/5724016)
 ---
 
 ## 简介 Introduction
-Features
-Inverse Design from Properties to Structures: Input target band gap and formation energy to generate crystal structures that match these properties.
-SLICES Encoding: Utilizes SLICES (Simplified Line-Input Crystal-Encoding System) encoding to represent crystal structures.
-Visualization: Generated structures can be intuitively presented through 3D visualization.
-Structure Analysis: Provides detailed information about the generated structures, including chemical formula, lattice parameters, etc.
-CIF File Export: Download Crystallographic Information Files (CIF) of generated structures for further analysis and use.
+北斗星的爱》是张杰2004年参加东方卫视第一届“我型我秀”总决赛期间与同是参赛选手的苟伟共同创作的歌曲。在整个比赛过程中，张杰一直演唱英文歌曲，最后的决赛，张杰决定给大家一个惊喜，演唱中文歌曲。
+半决赛前几天，张杰和住同房间的苟伟非常想念自己的家乡，包括以前的一些情感，于是产生了创作灵感，他们就每天在房间里面创作词曲，找灵感，最终用五天时间创作出这首《北斗星的爱》。
